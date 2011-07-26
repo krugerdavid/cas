@@ -1,0 +1,71 @@
+10
+
+dir
+233
+svn://campus.uni.edu.py:3690/svn/ingsof/doc/CAS/trunk
+svn://campus.uni.edu.py:3690/svn/ingsof/doc
+
+
+
+2009-08-16T19:48:41.416238Z
+233
+Adrian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ee509bb7-aa6c-4d63-b2ae-afd317fc6782
+
+code
+dir
+
+description.txt
+file
+
+
+
+
+2011-07-26T19:17:25.000000Z
+e29056e51528ec9f0339ccc1b2a8bc4c
+2009-04-28T13:52:11.071800Z
+39
+david
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+381
+
+docs
+dir
+
+mockups
+dir
+

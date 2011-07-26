@@ -1,0 +1,11 @@
+Copyleft (c) 2009, CAS - Sistema de Administracion para Censo
+
+Esto es para el proyecto CAS
+
+Las siguientes carpetas aqui son
+
+
+1. trunk: donde todo el trabajo principal es hecho.
+2. scratch: donde desarrolladores pueden guardar sus trabajos en progreso, los cuales no estan listos para incorporar al producto.
+3. branches: donde todos los branches del trunk son guardados.
+4. db: aqui iran todos los archivos .sql referentes al modelado de datos

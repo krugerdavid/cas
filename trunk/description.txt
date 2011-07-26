@@ -1,0 +1,9 @@
+Copyleft (c) 2009, CAS - Sistema de Administracion para Censo
+
+Este es la linea principal de desarrollo. Una vez que se hace un release, este queda archivado en la carpeta branches
+
+Las carpetas:
+
+docs 	- contiene todos los documentos holds all doc files
+mockups - contiene todos los borradores del proyecto
+src	- contiene el codigo fuente del proyecto. (la implementacion actual)
